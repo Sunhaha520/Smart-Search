@@ -38,7 +38,7 @@ BING_MKT = "en-US"
 GOOGLE_SEARCH_ENDPOINT = "https://customsearch.googleapis.com/customsearch/v1"
 SERPER_SEARCH_ENDPOINT = "https://google.serper.dev/search"
 SEARCHAPI_SEARCH_ENDPOINT = "https://www.searchapi.io/api/v1/search"
-DUCKDUCKGO_API_ENDPOINT = "https://apiweb-t725.onrender.com/search"
+DUCKDUCKGO_API_ENDPOINT = "https://api-colawork.koyeb.app/search"
 
 # Specify the number of references from the search engine you want to use.
 # 8 is usually a good number.
